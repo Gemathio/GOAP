@@ -9,7 +9,6 @@
 #include "Retreat.h"
 #include "Revive.h"
 #include "navmesh.h"
-#include <tge\engine.h>
 #include <random>
 
 #undef min
