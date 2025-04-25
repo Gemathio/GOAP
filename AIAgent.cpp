@@ -1,10 +1,6 @@
 #include "AIAgent.h"
 #include <iostream>
 #include <imgui\imgui.h>
-#include <tge\engine.h>
-#include <tge/graphics/GraphicsEngine.h>
-#include <tge/drawers/SpriteDrawer.h>
-#include <tge/texture/TextureManager.h>
 #include "navmesh.h"
 #include "FireAtTarget.h"
 #include "Revive.h"
