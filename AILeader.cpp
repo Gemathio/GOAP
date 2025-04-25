@@ -4,11 +4,7 @@
 #include "EventManager.h"
 #include <imgui\imgui.h>
 #include "AIAgent.h"
-#include <tge/graphics/GraphicsEngine.h>
-#include <tge/drawers/SpriteDrawer.h>
-#include <tge/texture/TextureManager.h>
 #include "navmesh.h"
-#include "tge\engine.h"
 #include <string>
 
 #undef SendMessage
