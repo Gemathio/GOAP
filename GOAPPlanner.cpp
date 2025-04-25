@@ -1,7 +1,6 @@
 ﻿#include "GOAPPlanner.h"
 #include <iostream>
 #include <algorithm>
-#include <tge\math\Vector.h>
 
 struct SearchNode
 {
