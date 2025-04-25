@@ -4,7 +4,6 @@
 #include <queue>
 #include <cmath>
 #include <random>
-#include "tge/input/InputManager.h"
 #include <sstream>
 
 #ifndef M_PI
