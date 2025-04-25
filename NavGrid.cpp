@@ -1,7 +1,6 @@
 ﻿#include "stdafx.h"
 #include "NavGrid.h"
 #include "NavMesh.h"
-#include <tge\engine.h>
 
 #undef max
 #undef min
